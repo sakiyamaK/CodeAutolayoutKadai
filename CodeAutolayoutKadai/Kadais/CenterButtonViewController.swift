@@ -7,7 +7,7 @@
 
 import UIKit
 
-class CenterViewController: UIViewController {
+class CenterButtonViewController: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
