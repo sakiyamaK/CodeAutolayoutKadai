@@ -5,7 +5,9 @@
 # 課題1
 
 新規プロジェクトを作成してMain.storyboardを削除する
+
 Main.storyboardを読み込む設定を2箇所削除する
+
 Windowを立ち上げてViewControllerを読み込ませる
 
 ## 参考
@@ -29,6 +31,7 @@ SafeAreaImageViewController.swift
 # 課題4
 
 画面の真ん中にボタンを置く制約を貼る
+
 ボタンをタップするとログを出力させる
 
 ## 参考
@@ -44,6 +47,7 @@ StackViewController.swift
 # 課題6
 
 UIStackViewを使って画面に画像とボタンが縦に並ぶようにする
+
 ボタンをタップしたら別の画面に遷移するようにする
 
 * SceneDelegate.swiftでUINavigationControllerをrootViewControllerにする
@@ -61,7 +65,9 @@ SceneDelegate.swiftの課題7のコメントアウト
 # 課題8
 
 画面の上部にUILabelを使って文字を表示させる
+
 UILabelの縦方向に余白ができないようにする
+
 ただし、高さの最大は画面の半分までにする
 
 ## 参考
@@ -70,6 +76,7 @@ TopLabelViewController.swift
 # 課題9
 
 高さが100のUILabelを複数縦に並べる
+
 ただし、画面の高さを超える場合はスクロールして、超えない場合は下に余白ができるようにする
 
 ## 参考
@@ -78,6 +85,7 @@ ScrollStackViewController.swift
 # 課題 10
 
 横スクロールでページが切り替わるようなUIを作る
+
 各ページの画面の中央にUILabelでページ番号を表示する
 
 * UIScrollViewのisPagingEnabledをtrueにする
@@ -90,6 +98,7 @@ PagingViewController.swift
 tiktok.pngと同じレイアウトを用意する
 
 * 画像はsystem imageの利用法を参考にする
+
 https://tommy10344.hatenablog.com/entry/2019/11/03/141523
 
 ## 参考
