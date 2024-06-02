@@ -8,6 +8,10 @@
 Main.storyboardを読み込む設定を2箇所削除する
 Windowを立ち上げてViewControllerを読み込ませる
 
+## 参考
+https://github.com/sakiyamaK/NoStoryboardProject
+のふたつの画像の設定箇所を消す
+
 # 課題2
 
 全画面表示で画像を表示させる制約を貼る
